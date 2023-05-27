@@ -1,0 +1,4 @@
+1. terraform init (uma única vez)
+2. terraform plan (opcional)
+2. terraform apply 
+3. terraform destroy (para destruir)
